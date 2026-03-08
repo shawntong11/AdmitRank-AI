@@ -32,20 +32,25 @@ If this helped you, please ⭐ **star this repo** — it helps others find it!
 ## Screenshots
 
 ### 1. Admissions Competitiveness Report
+<img width="976" height="861" alt="1 Admissions Competitiveness Report" src="https://github.com/user-attachments/assets/b5c1e857-ec89-454f-80ea-8b8ca80b5c26" />
 
 
 ### 2. School Selection Strategy
+<img width="960" height="1711" alt="2 School Selection Strategy" src="https://github.com/user-attachments/assets/4757c74c-06e0-4ff8-ab4d-cdba267bb66f" />
 
 
 ### 3. Advisor Matching
+<img width="967" height="1013" alt="3 Advisor Matching" src="https://github.com/user-attachments/assets/54e5c721-301b-4696-adfd-64ade1be4cdd" />
 
 
 
 ### 4. Improvement Tips 
+<img width="965" height="502" alt="4 Improvement Tips" src="https://github.com/user-attachments/assets/17520c20-91f7-492b-90ac-b0f659795ba1" />
 
 
 
 ### 5. Application Timeline
+<img width="972" height="426" alt="5 Application Timeline" src="https://github.com/user-attachments/assets/0a165405-243b-4dc3-b2eb-6cdba325879b" />
 
 
 
