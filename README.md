@@ -1,12 +1,15 @@
 # AdmitRank-AI
-🎓 AI-powered comprehensive university admissions analyzer   
+
+🚀 **[Try it Live → shawntong11.github.io/AdmitRank-AI](https://shawntong11.github.io/AdmitRank-AI)**
+
+🎓 AI-powered admissions diagnostic tool...
 
 1. Download `index.html`
 2. Open in browser
 3. Enter your Anthropic API Key
 4. Upload your resume PDF → Get results in 30 seconds
 
-  → auto-generate   
+  → Auto-generate   
 - 📋 1. Admissions Competitiveness Report
 - 🏛️ 2. School Selection Strategy — 3-tier school matching with acceptance probabilities
 - 🔬 3. Advisor Matching
